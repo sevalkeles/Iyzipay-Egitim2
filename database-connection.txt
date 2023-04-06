@@ -1,0 +1,7 @@
+
+ payment-system-backend
+
+K2ywPsNqhBEKt9xG
+
+mongodb+srv://payment-system-backend:K2ywPsNqhBEKt9xG@cluster0.o1chvnx.mongodb.net/?retryWrites=true&w=majority
+

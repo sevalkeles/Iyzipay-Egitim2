@@ -1,0 +1,9 @@
+DEPLOYMENT=PRODUCTION
+HTTPS_ENABLED=false
+PORT=8080
+LOGGER=tiny
+MONGO_URI= mongodb+srv://payment-system-backend:K2ywPsNqhBEKt9xG@cluster0.o1chvnx.mongodb.net/payment-system-production?retryWrites=true&w=majority
+
+JWT_SECRET = JHFJHKhhfhgcvbnhj1268754FHDFHGhgjfhj5456
+
+END_POINT = https://dfjfhfjf.heroku.com/api

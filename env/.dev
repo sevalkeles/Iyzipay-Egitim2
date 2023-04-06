@@ -1,0 +1,9 @@
+DEPLOYMENT=DEVELOPMENT
+HTTPS_ENABLED=true
+PORT=443
+LOGGER=dev
+MONGO_URI= mongodb+srv://payment-system-backend:K2ywPsNqhBEKt9xG@cluster0.o1chvnx.mongodb.net/payment-system-development?retryWrites=true&w=majority
+
+JWT_SECRET = JHFJHKhhfhgcvbnhj1268754FHDFHGhgjfhj5456
+
+END_POINT = https://127.0.0.1/api
